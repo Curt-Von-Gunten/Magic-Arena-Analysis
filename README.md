@@ -10,7 +10,7 @@
 
 
 
-![png](output_6_0.png)
+![png](Figures/output_6_0.png)
 
 
 >## Quick draft clearly beats the other event types. What happens above a 60% win rate?
