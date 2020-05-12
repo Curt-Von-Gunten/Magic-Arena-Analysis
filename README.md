@@ -1,15 +1,6 @@
 # <center> Magic Arena Economy Analysis </center>
 
 
-```python
-import numpy as np
-import pandas as pd
-import math
-import matplotlib.pyplot as plt
-#import seaborn as sns
-#%matplotlib inline
-# from IPython.display import Image
-```
 
 
 ```python
