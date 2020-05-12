@@ -1,6 +1,6 @@
 # <center> Magic Arena Economy Analysis </center>
 
-<img src="Balance_v1.jpg" width="600" height="450" align="center"/>
+<img src="Images/Balance_v1.jpg" width="600" height="450" align="center"/>
 
 <div class="alert alert-block alert-info">
 <b>Note:</b> Many previous analyses use the average rewards (in gems or gold) per event as the primary outcome. This approach has some limitations. The following analysis:<br>1. Starts from X amount of money/gems.<br>2. Takes the gems you win from an event and inputs them into more events until you don't have enough gems to play again.<br>3. Accounts for the fact that quick draft entry is half the price of other draft formats.
@@ -17,7 +17,7 @@
 
 
 
-![png](output_8_0.png)
+![png](Figures/output_8_0.png)
 
 
 >## Traditional draft takes off quickly once your win rate inches above 60%. Note that this analysis indirectly tells you how many gems you win relative to the cost of entry (expected value).
@@ -27,7 +27,7 @@
 >## One important parameter for this analysis is how many rares/mythics you get on average per draft. For now, I'll assume you aren't rare drafting.<br>Let's assume 3 rares/mythics per draft.
 
 
-![png](output_12_0.png)
+![png](Figures/output_12_0.png)
 
 
 >## Quick draft results in the most random rares and mythics for win rates of 55% and below. But what about the fact that just using your gems to buy packs results in more rare and mythic wilcards at 50% and that premier and traditional draft results in more wildcards at 55% and above?
@@ -37,7 +37,7 @@
 
 
 
-![png](output_15_0.png)
+![png](Figures/output_15_0.png)
 
 
 >## You can see that when assuming that a rare wildcard is equal to 6 random rares and that a mythic wildcard is equal to 4 mythic wildcards, quick draft is the better option compared to buying packs directly
@@ -46,7 +46,7 @@
 
 
 
-![png](output_18_0.png)
+![png](Figures/output_18_0.png)
 
 
 >## You're slightly ahead in premier draft at 55%. Because traditional results in more cards than premier (see earlier graph), we know that you'll also be better off in traditional than quick draft as well.
@@ -55,7 +55,7 @@
 
 
 
-![png](output_21_0.png)
+![png](Figures/output_21_0.png)
 
 
 >## You can see that changing from 3 to 1 rare/mythic per draft does two things:<br>1. Sealed beats quick draft and the other draft formats at 50% and below.<br>2. Quick draft is penalized more than traditional and premier.
@@ -65,7 +65,7 @@
 
 
 
-![png](output_24_0.png)
+![png](Figures/output_24_0.png)
 
 
 >## Sealed comes out ahead at 50% and greater, but not by as much as you might have expected.
@@ -74,7 +74,7 @@
 
 
 
-![png](output_27_0.png)
+![png](Figures/output_27_0.png)
 
 
 >## In this case, buying packs gives you the same value in cards.
@@ -91,7 +91,7 @@
 
 
 
-![png](output_33_0.png)
+![png](Figures/output_33_0.png)
 
 
 >## The value of rare drafting depends on the draft format. You gain a ton from rare drafting in quick draft regardless of how good you are when not rare drafting. The other formats are hard to discern at 55%.
@@ -100,7 +100,7 @@
 
 
 
-![png](output_36_0.png)
+![png](Figures/output_36_0.png)
 
 
 >## It seems that it's hard to go wrong rare drafting in quick draft. It's also clear that it's a disaster to rare draft in other formats if you're at or above 60%.
@@ -108,7 +108,7 @@
 >## To be thorough let's do one more, where you get 1 rare/mythic when not rare drafting, 5 when rare drafting, and your win rate drops 25%, which may be closer to the truth in a competitive format like traditional.
 
 
-![png](output_39_0.png)
+![png](Figures/output_39_0.png)
 
 
 >## Even if you can manage a 60% win rate in quick draft when not rare drafting, you still come out very ahead if you drop to a 35% win rate when rare drafting. But if you're that good you should probably be trying to maintain a high win rate in traditional and not rare drafting.
@@ -122,18 +122,18 @@
 
 
 
-![png](output_44_0.png)
+![png](Figures/output_44_0.png)
 
 
 
-![png](output_44_1.png)
+![png](Figures/output_44_1.png)
 
 
 >## You're worse off drafting at 50%. Let's say you get 2 rare/mythics per draft instead. Let's also remove the first set of graphs and just look at the conversion graph.
 
 
 
-![png](output_46_0.png)
+![png](Figures/output_46_0.png)
 
 
 >## With the additional 1 rare/mythic you come out slightly ahead drafting.
@@ -142,7 +142,7 @@
 
 
 
-![png](output_49_0.png)
+![png](Figures/output_49_0.png)
 
 
 <div class="alert alert-block alert-info">
@@ -153,4 +153,4 @@
 
 # <center> Thanks for reading. Please provide suggestions and corrections. </center>
 
-<img src="Merchant_v1.jpg" width="750" height="600" align="center"/>
+<img src="Images/Merchant_v1.jpg" width="750" height="600" align="center"/>
