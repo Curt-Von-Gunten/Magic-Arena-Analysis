@@ -153,4 +153,4 @@
 
 # <center> Thanks for reading. Please provide suggestions and corrections. </center>
 
-<img src="Merchant_v1.jpg" width="750" height="750" align="center"/>
+<img src="Merchant_v1.jpg" width="750" height="600" align="center"/>
