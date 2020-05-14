@@ -1,6 +1,6 @@
 # <center> Magic Arena Economy Analysis </center>
 
-<img src="Images/Balance_v1.jpg" width="600" height="600" align="center"/>
+<img src="Images/Balance_v1.jpg" width="600" height="450" align="center"/>
 
 <div class="alert alert-block alert-info">
 <b>Note:</b> Many previous analyses use the average rewards (in gems or gold) per event as the primary outcome. This approach has some limitations. The following analysis:<br>1. Starts from X amount of money/gems.<br>2. Takes the gems you win from an event and inputs them into more events until you don't have enough gems to play again.<br>3. Accounts for the fact that quick draft entry is half the price of other draft formats.
@@ -62,5 +62,5 @@
 
 # <center> Thanks for reading. Please provide suggestions and corrections. </center>
 
-<img src="Images/Merchant_v1.jpg" width="750" height="750" align="center"/>
+<img src="Images/Merchant_v1.jpg" width="750" height="600" align="center"/>
 
